@@ -1,5 +1,9 @@
-This is the 1st file i have created
-
-this is the second line of file1
-
+<html>
+<head>
+<title>Static Web APP </static>
+</head>
+<body>
+<p> this is the sample paragraph in web app
+</body>
+</html>
 
